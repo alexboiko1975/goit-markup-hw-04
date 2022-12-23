@@ -490,5 +490,4 @@ img {
 .ellipse-footer:hover,
 .ellipse-footer:focus {
   background-color: var(--accent-color);
-  fill: var(--main-background-color);
 }

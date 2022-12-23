@@ -401,7 +401,6 @@ img {
 }
 .icons {
   display: flex;
-  /* flex-wrap: wrap; */
   gap: 10px;
   justify-content: center;
   padding: 0 32px 30px 32px;
@@ -432,8 +431,6 @@ img {
   background: var(--sectionteam-bg-color);
   border-radius: 4px;
 }
-.favicons:hover {
-}
 .customers-title {
   text-align: center;
   font-size: 36px;
@@ -445,7 +442,6 @@ img {
   display: flex;
   justify-content: center;
   gap: 30px;
-  /* padding-bottom: 94px; */
 }
 .box {
   display: flex;
